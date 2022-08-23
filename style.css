@@ -62,7 +62,7 @@ main{
 
 .article-text{
   font-size: 1.2em;
-  max-height: 19rem;
+  max-height: 18rem;
   overflow: auto;
 }
 
